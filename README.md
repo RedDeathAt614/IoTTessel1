@@ -7,4 +7,4 @@ The code inside the tessel folder is the code needed for the Tessel. In order to
 
 The code inside the dashboard is the code necessary to run the meteor dashboard. Just create a new meteor project and copy the code into it.
 
-Checkout a working demo here: http://data-reibel.io
+Checkout a working demo here: http://data.reibel.io
