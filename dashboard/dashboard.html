@@ -1,0 +1,15 @@
+<head>
+  <title>IoT Demo</title>
+</head>
+
+<body>
+  <a href="http://reibel.io"><h1>Cool ambient and climate data from a Tessel!</h1></a>
+
+  {{> graphs}}
+</body>
+
+<template name="graphs">
+   <div id="ambientChart" class="chart" style="width: 100%;"></div>
+   <div id="tempChart" class="chart" style="width: 50%;"></div>
+   <div id="humidChart" class="chart" style="width: 50%;"></div>
+</template>
