@@ -20,8 +20,8 @@ Connect to wifi
 ************************/
 
 var wifi = require('wifi-cc3000');
-var network = 'INSERT WIFI SSID HERE; // put in your network name here
-var pass = 'INSERT WIFI PASS HERE' // put in your password here, or leave blank for unsecured
+var network = 'INSERT WIFI SSID HERE'; // put in your network name here
+var pass = 'INSERT WIFI PASS HERE'; // put in your password here, or leave blank for unsecured
 var security = 'wpa2'; // other options are 'wep', 'wpa', or 'unsecured'
 var timeouts = 0;
 
